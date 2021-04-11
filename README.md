@@ -1,2 +1,2 @@
 # SQABatch_17
-test
+GIT Practicals
